@@ -4,7 +4,9 @@ The Matlab version of MouseLabTracker was developed by Giuliano Vilela, under th
  
 To get started, read the user guide (file mouselabtracker-userguide-0.2.9.pdf in this repository).
 
-In any research work that used this software, please cite: Tort AB, Neto WP, Amaral OB, Kazlauckas V, Souza DO, Lara DR. A simple webcam-based approach for the measurement of rodent locomotion and other behavioural parameters. J Neurosci Methods. 2006 Oct 15;157(1):91-7. doi: 10.1016/j.jneumeth.2006.04.005. 
+In any research work that used this software, please cite: Tort AB, Neto WP, Amaral OB, Kazlauckas V, Souza DO, Lara DR. A simple webcam-based approach for the measurement of rodent locomotion and other behavioural parameters. J Neurosci Methods. 2006 Oct 15;157(1):91-7. 
+
+https://doi.org/10.1016/j.jneumeth.2006.04.005
 
 This software was created at the Brain Institute at the Federal University of Rio Grande do Norte (UFRN), Natal, Brazil. 
 
